@@ -1,0 +1,18 @@
+Change Component Comment : Designator=R31 Old Comment=47K New Comment=4.7K
+Added Component: Designator=R32(RC0805)
+Added Component: Designator=R33(RC0805)
+Added Component: Designator=R34(RC0805)
+Added Component: Designator=R35(RC0805)
+Added Pin To Net: NetName=RDYN Pin=R32-1
+Added Pin To Net: NetName=+3.3V Pin=R32-2
+Added Pin To Net: NetName=M1 Pin=R33-1
+Added Pin To Net: NetName=+3.3V Pin=R33-2
+Added Pin To Net: NetName=+3.3V Pin=R34-1
+Added Pin To Net: NetName=U2TX Pin=R34-2
+Added Pin To Net: NetName=+3.3V Pin=R35-1
+Added Pin To Net: NetName=U1RX Pin=R35-2
+Change Class Name : Old Net Name=MODEM2 New Net Name=MODEM_R2_2
+Added Member To Class: ClassName=MODEM_R2_2 Member=Component R32 4.7K
+Added Member To Class: ClassName=MODEM_R2_2 Member=Component R33 4.7K
+Added Member To Class: ClassName=MODEM_R2_2 Member=Component R34 4.7K
+Added Member To Class: ClassName=MODEM_R2_2 Member=Component R35 4.7K

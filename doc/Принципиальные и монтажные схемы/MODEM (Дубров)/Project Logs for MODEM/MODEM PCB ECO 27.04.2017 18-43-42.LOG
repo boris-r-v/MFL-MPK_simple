@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=FU? Old Footprint=ZH266 New Footprint=VP1-2
+Change Component Comment : Designator=FU? Old Comment=боа6 New Comment=бо1-2
+Change Component Designator: OldDesignator=FU? NewDesignator=FU2
+Change Net Name : Old Net Name=NetFU?_1 New Net Name=NetFU2_1

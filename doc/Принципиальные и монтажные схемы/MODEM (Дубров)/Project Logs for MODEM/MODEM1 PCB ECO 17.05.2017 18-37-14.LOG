@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC31_2 Pin=FU2-2
+Removed Pin From Net: NetName=SPB Pin=VD11-1
+Change Component DesignItemId : Designator=VD12 Old DesignItemId=SMCJ28A New DesignItemId=SM6T6V8CA
+Change Component Comment : Designator=VD12 Old Comment=SMCJ30A New Comment=SMCJ30CA
+Added Pin To Net: NetName=SPB Pin=L5-3
+Added Pin To Net: NetName=NetC31_2 Pin=VD11-2
+Added Pin To Net: NetName=NetFU2_2 Pin=FU2-2
+Added Pin To Net: NetName=NetFU2_2 Pin=VD11-1
+Added Net: Name=NetFU2_2

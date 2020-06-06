@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=+15V Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=DA2-3
+Removed Pin From Net: NetName=GND Pin=DA2-6
+Removed Pin From Net: NetName=GND Pin=DA2-7
+Removed Pin From Net: NetName=+15V Pin=DA2-8
+Removed Pin From Net: NetName=GND Pin=DA3-3
+Removed Pin From Net: NetName=GND Pin=DA3-6
+Removed Pin From Net: NetName=GND Pin=DA3-7
+Removed Pin From Net: NetName=+15V Pin=DA3-8
+Removed Pin From Net: NetName=SMB Pin=L5-1
+Removed Pin From Net: NetName=NetC31_1 Pin=L5-2
+Removed Pin From Net: NetName=SPB Pin=L5-3
+Removed Pin From Net: NetName=NetFU2_1 Pin=L5-4
+Change Component DesignItemId : Designator=DA2 Old DesignItemId=L78L06ABD New DesignItemId=L78L08ABU
+Change Component DesignItemId : Designator=DA3 Old DesignItemId=L78L33ABD New DesignItemId=L78L33ABU
+Change Component DesignItemId : Designator=L5 Old DesignItemId=TRANS New DesignItemId=49221
+Change Component Footprint: Designator=DA2 Old Footprint=L78L06ABD New Footprint=SOT-89
+Change Component Footprint: Designator=DA3 Old Footprint=L78L06ABD New Footprint=SOT-89
+Change Component Footprint: Designator=L5 Old Footprint=UU10LF New Footprint=49221
+Change Component Comment : Designator=RV1 Old Comment=JVR10N180M87PU5 New Comment=JVR07N180M87PU5
+Change Component Comment : Designator=RV2 Old Comment=JVR10N390K87PU5 New Comment=JVR07N390K87PU5
+Change Component Comment : Designator=DA3 Old Comment=L78L33ABD New Comment=L78L33ABU
+Change Component Comment : Designator=DA2 Old Comment=MC78L08ABDR2G New Comment=L78L08ABU
+Change Component Comment : Designator=L5 Old Comment=UU10LF New Comment=49221
+Added Pin To Net: NetName=+8V Pin=C18-2
+Added Pin To Net: NetName=+15V Pin=DA2-3
+Added Pin To Net: NetName=+8V Pin=DA3-3
+Added Pin To Net: NetName=SPB Pin=L5-1
+Added Pin To Net: NetName=SMB Pin=L5-2
+Added Pin To Net: NetName=NetFU2_1 Pin=L5-3
+Added Pin To Net: NetName=NetC31_1 Pin=L5-4
+Change Class Name : Old Net Name=MODEM1 New Net Name=MODEM_R2_1

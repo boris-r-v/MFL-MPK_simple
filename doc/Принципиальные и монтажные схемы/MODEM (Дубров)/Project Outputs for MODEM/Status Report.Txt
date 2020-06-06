@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MODEM.PrjPcb]
+   Generated File[MODEM1.TXT]
+   Generated File[MODEM1.LDP]
+   Generated File[MODEM1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:55:45 On 30.05.2017

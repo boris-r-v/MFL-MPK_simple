@@ -1,0 +1,93 @@
+Removed Pin From Net: NetName=U1RX Pin=DD3-24
+Removed Pin From Net: NetName=U1TX Pin=DD3-25
+Removed Pin From Net: NetName=U1TX Pin=DD6-11
+Removed Pin From Net: NetName=U1RX Pin=DD6-12
+Removed Pin From Net: NetName=+15V Pin=R22-1
+Removed Pin From Net: NetName=NetHL3_1 Pin=R22-2
+Removed Pin From Net: NetName=PGEC1 Pin=SA2-11
+Removed Pin From Net: NetName=PGED1 Pin=SA2-12
+Change Component DesignItemId : Designator=SA2 Old DesignItemId=DHN-06F-V New DesignItemId=DHN-08F-V
+Change Component DesignItemId : Designator=HL3 Old DesignItemId=KP-3216EC_R New DesignItemId=KP-3216EC_L
+Change Component Footprint: Designator=SA2 Old Footprint=DHN-06F-V New Footprint=DHN-08F-V
+Change Component Comment : Designator=SA2 Old Comment=DHN-06F-V New Comment=DHN-08F-V
+Added Component: Designator=DD7(SN74HC165D)
+Added Component: Designator=R23(RC0805)
+Added Component: Designator=R24(RC0805)
+Added Component: Designator=R25(RC0805)
+Added Component: Designator=R26(RC0805)
+Added Component: Designator=R27(RC0805)
+Added Component: Designator=R28(RC0805)
+Added Component: Designator=R29(RC0805)
+Added Component: Designator=R30(RC0805)
+Added Pin To Net: NetName=U1RX Pin=DD3-6
+Added Pin To Net: NetName=U1TX Pin=DD3-7
+Added Pin To Net: NetName=SCLK Pin=DD7-2
+Added Pin To Net: NetName=GND Pin=DD7-8
+Added Pin To Net: NetName=GND Pin=DD7-10
+Added Pin To Net: NetName=GND Pin=DD7-15
+Added Pin To Net: NetName=+3.3V Pin=DD7-16
+Added Pin To Net: NetName=NetHL3_1 Pin=R22-1
+Added Pin To Net: NetName=+15V Pin=R22-2
+Added Pin To Net: NetName=+3.3V Pin=R23-1
+Added Pin To Net: NetName=+3.3V Pin=R24-1
+Added Pin To Net: NetName=+3.3V Pin=R25-1
+Added Pin To Net: NetName=+3.3V Pin=R26-1
+Added Pin To Net: NetName=+3.3V Pin=R27-2
+Added Pin To Net: NetName=+3.3V Pin=R28-2
+Added Pin To Net: NetName=+3.3V Pin=R29-2
+Added Pin To Net: NetName=+3.3V Pin=R30-2
+Added Pin To Net: NetName=GND Pin=SA2-7
+Added Pin To Net: NetName=GND Pin=SA2-8
+Added Pin To Net: NetName=ADRES Pin=DD3-14
+Added Pin To Net: NetName=ADRES Pin=DD7-9
+Added Net: Name=ADRES
+Added Pin To Net: NetName=LOAD Pin=DD3-11
+Added Pin To Net: NetName=LOAD Pin=DD7-1
+Added Net: Name=LOAD
+Added Pin To Net: NetName=NetDD7_3 Pin=DD7-3
+Added Pin To Net: NetName=NetDD7_3 Pin=R27-1
+Added Pin To Net: NetName=NetDD7_3 Pin=SA2-12
+Added Net: Name=NetDD7_3
+Added Pin To Net: NetName=NetDD7_4 Pin=DD7-4
+Added Pin To Net: NetName=NetDD7_4 Pin=R28-1
+Added Pin To Net: NetName=NetDD7_4 Pin=SA2-11
+Added Net: Name=NetDD7_4
+Added Pin To Net: NetName=NetDD7_5 Pin=DD7-5
+Added Pin To Net: NetName=NetDD7_5 Pin=R29-1
+Added Pin To Net: NetName=NetDD7_5 Pin=SA2-10
+Added Net: Name=NetDD7_5
+Added Pin To Net: NetName=NetDD7_6 Pin=DD7-6
+Added Pin To Net: NetName=NetDD7_6 Pin=R30-1
+Added Pin To Net: NetName=NetDD7_6 Pin=SA2-9
+Added Net: Name=NetDD7_6
+Added Pin To Net: NetName=NetDD7_11 Pin=DD7-11
+Added Pin To Net: NetName=NetDD7_11 Pin=R23-2
+Added Pin To Net: NetName=NetDD7_11 Pin=SA2-16
+Added Net: Name=NetDD7_11
+Added Pin To Net: NetName=NetDD7_12 Pin=DD7-12
+Added Pin To Net: NetName=NetDD7_12 Pin=R24-2
+Added Pin To Net: NetName=NetDD7_12 Pin=SA2-15
+Added Net: Name=NetDD7_12
+Added Pin To Net: NetName=NetDD7_13 Pin=DD7-13
+Added Pin To Net: NetName=NetDD7_13 Pin=R25-2
+Added Pin To Net: NetName=NetDD7_13 Pin=SA2-14
+Added Net: Name=NetDD7_13
+Added Pin To Net: NetName=NetDD7_14 Pin=DD7-14
+Added Pin To Net: NetName=NetDD7_14 Pin=R26-2
+Added Pin To Net: NetName=NetDD7_14 Pin=SA2-13
+Added Net: Name=NetDD7_14
+Added Pin To Net: NetName=U2RX Pin=DD3-24
+Added Pin To Net: NetName=U2RX Pin=DD6-12
+Added Net: Name=U2RX
+Added Pin To Net: NetName=U2TX Pin=DD3-25
+Added Pin To Net: NetName=U2TX Pin=DD6-11
+Added Net: Name=U2TX
+Added Member To Class: ClassName=MODEM2 Member=Component DD7 SN74HC165D
+Added Member To Class: ClassName=MODEM2 Member=Component R23 47K
+Added Member To Class: ClassName=MODEM2 Member=Component R24 47K
+Added Member To Class: ClassName=MODEM2 Member=Component R25 47K
+Added Member To Class: ClassName=MODEM2 Member=Component R26 47K
+Added Member To Class: ClassName=MODEM2 Member=Component R27 47K
+Added Member To Class: ClassName=MODEM2 Member=Component R28 47K
+Added Member To Class: ClassName=MODEM2 Member=Component R29 47K
+Added Member To Class: ClassName=MODEM2 Member=Component R30 47K

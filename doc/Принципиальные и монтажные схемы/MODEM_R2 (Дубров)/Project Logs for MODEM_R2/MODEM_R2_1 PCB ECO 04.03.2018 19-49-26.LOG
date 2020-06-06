@@ -1,0 +1,8 @@
+Added Component: Designator=DA4(TEN3-2412WIN)
+Added Pin To Net: NetName=NetC31_1 Pin=DA4-2
+Added Pin To Net: NetName=NetC31_1 Pin=DA4-3
+Added Pin To Net: NetName=+15V Pin=DA4-14
+Added Pin To Net: NetName=GND Pin=DA4-16
+Added Pin To Net: NetName=NetC31_2 Pin=DA4-22
+Added Pin To Net: NetName=NetC31_2 Pin=DA4-23
+Added Member To Class: ClassName=MODEM_R2_1 Member=Component DA4 TEN 3-2413WIN-HI

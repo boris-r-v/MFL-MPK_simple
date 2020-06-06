@@ -1,0 +1,9 @@
+Added Component: Designator=L1(MMZ2012Y202B)
+Added Component: Designator=L2(MMZ2012Y202B)
+Added Pin To Net: NetName=TXD Pin=L1-1
+Added Pin To Net: NetName=232-TX Pin=L1-2
+Added Pin To Net: NetName=RXD Pin=L2-1
+Added Pin To Net: NetName=232-RX Pin=L2-2
+Added Member To Class: ClassName=MODEM Member=Component L1 MMZ2012Y202B
+Added Member To Class: ClassName=MODEM Member=Component L2 MMZ2012Y202B
+Added Room: Name=MODEM

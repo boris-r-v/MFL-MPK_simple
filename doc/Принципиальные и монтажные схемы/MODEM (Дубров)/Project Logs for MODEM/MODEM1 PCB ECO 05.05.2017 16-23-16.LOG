@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=+12V Pin=C15-2
+Removed Pin From Net: NetName=SMB Pin=C30-1
+Removed Pin From Net: NetName=+12V Pin=DA2-8
+Removed Pin From Net: NetName=NetC31_2 Pin=L5-4
+Removed Pin From Net: NetName=NetC31_2 Pin=RV2-1
+Removed Pin From Net: NetName=NetFU2_1 Pin=VD11-2
+Removed Member From Class: ClassName=MODEM1 Member=C30
+Change Component DesignItemId : Designator=FU2 Old DesignItemId=VPB6 New DesignItemId=TRF250-120
+Change Component Footprint: Designator=L3 Old Footprint=DLW31SN New Footprint=DLW5BTN
+Change Component Footprint: Designator=L4 Old Footprint=DLW31SN New Footprint=DLW5BTN
+Change Component Footprint: Designator=FU2 Old Footprint=VP1-2 New Footprint=RXEF075
+Change Component Comment : Designator=L3 Old Comment=DLW31SN New Comment=DLW5BTN102SQ2L
+Change Component Comment : Designator=L4 Old Comment=DLW31SN New Comment=DLW5BTN102SQ2L
+Change Component Comment : Designator=DA2 Old Comment=L78L06ABD New Comment=MC78L08ABDR2G
+Change Component Comment : Designator=DA4 Old Comment=TEN3-2412WIN New Comment=TEN 3-2413WIN-HI
+Change Component Comment : Designator=FU2 Old Comment=бо1-2 New Comment=RXEF075
+Added Component: Designator=VD12(SMCJ28A)
+Added Pin To Net: NetName=NetC31_2 Pin=FU2-2
+Added Pin To Net: NetName=NetFU2_1 Pin=L5-4
+Added Pin To Net: NetName=NetFU2_1 Pin=RV2-1
+Added Pin To Net: NetName=NetC31_1 Pin=VD12-1
+Added Pin To Net: NetName=NetFU2_1 Pin=VD12-2
+Change Net Name : Old Net Name=+6V New Net Name=+8V
+Change Net Name : Old Net Name=+12V New Net Name=+15V
+Added Pin To Net: NetName=+12V Pin=C15-2
+Added Pin To Net: NetName=+12V Pin=DA2-8
+Added Net: Name=+12V
+Added Pin To Net: NetName=NetL5_3 Pin=L5-3
+Added Pin To Net: NetName=NetL5_3 Pin=VD11-2
+Added Net: Name=NetL5_3
+Added Member To Class: ClassName=MODEM1 Member=Component VD12 SMCJ30A

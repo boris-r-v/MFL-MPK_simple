@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IN-OUT Pin=TV1-5
+Removed Pin From Net: NetName=+6V Pin=TV1-8
+Added Pin To Net: NetName=+6V Pin=TV1-5
+Added Pin To Net: NetName=IN-OUT Pin=TV1-8

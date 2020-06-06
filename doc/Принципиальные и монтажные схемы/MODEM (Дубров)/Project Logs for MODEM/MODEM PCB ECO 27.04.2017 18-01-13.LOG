@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C1 Old Footprint=CC1206 New Footprint=TS02-22.5
+Change Component Footprint: Designator=C2 Old Footprint=CC1206 New Footprint=TS02-22.5
+Change Component Designator: OldDesignator=VD? NewDesignator=VD11
+Added Room: Name=MODEM

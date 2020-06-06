@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TXD Pin=DD6-7
+Removed Pin From Net: NetName=RXD Pin=DD6-8
+Removed Pin From Net: NetName=U1RX Pin=DD6-9
+Removed Pin From Net: NetName=U1TX Pin=DD6-10
+Added Pin To Net: NetName=U1TX Pin=DD6-11
+Added Pin To Net: NetName=U1RX Pin=DD6-12
+Added Pin To Net: NetName=RXD Pin=DD6-13
+Added Pin To Net: NetName=TXD Pin=DD6-14

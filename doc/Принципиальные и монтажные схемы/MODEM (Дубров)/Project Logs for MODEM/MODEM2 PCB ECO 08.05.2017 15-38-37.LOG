@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=+3.3V Pin=C29-2
+Added Pin To Net: NetName=VBIAS Pin=C29-2

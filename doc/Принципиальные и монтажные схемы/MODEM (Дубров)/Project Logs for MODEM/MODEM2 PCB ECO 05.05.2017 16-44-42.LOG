@@ -1,0 +1,7 @@
+Change Component DesignItemId : Designator=DA1 Old DesignItemId=MC33202DG New DesignItemId=LM258DT
+Change Component Footprint: Designator=DA1 Old Footprint=MC33202DG New Footprint=LM258DT
+Change Component Comment : Designator=R22 Old Comment=1.2K New Comment=1.5K
+Change Component Comment : Designator=DA1 Old Comment=MC33202DG New Comment=LM258DT
+Added Pin To Net: NetName=+3.3V Pin=C13-1
+Change Net Name : Old Net Name=+6V New Net Name=+8V
+Change Net Name : Old Net Name=+12V New Net Name=+15V

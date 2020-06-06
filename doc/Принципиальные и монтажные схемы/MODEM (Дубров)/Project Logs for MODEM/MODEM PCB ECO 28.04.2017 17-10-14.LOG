@@ -1,0 +1,14 @@
+Added Component: Designator=SA2(DHN-06F-V)
+Added Pin To Net: NetName=PGED1 Pin=SA2-1
+Added Pin To Net: NetName=PGEC1 Pin=SA2-2
+Added Pin To Net: NetName=NetDD3_6 Pin=SA2-3
+Added Pin To Net: NetName=NetDD3_7 Pin=SA2-4
+Added Pin To Net: NetName=NetDD3_11 Pin=SA2-5
+Added Pin To Net: NetName=NetDD3_14 Pin=SA2-6
+Added Pin To Net: NetName=GND Pin=SA2-7
+Added Pin To Net: NetName=GND Pin=SA2-8
+Added Pin To Net: NetName=GND Pin=SA2-9
+Added Pin To Net: NetName=GND Pin=SA2-10
+Added Pin To Net: NetName=GND Pin=SA2-11
+Added Pin To Net: NetName=GND Pin=SA2-12
+Added Member To Class: ClassName=MODEM Member=Component SA2 DHN-06F-V

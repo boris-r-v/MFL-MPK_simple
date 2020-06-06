@@ -1,0 +1,4 @@
+Added Component: Designator=C1(TS02-22.5-h)
+Added Pin To Net: NetName=LINE2 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Member To Class: ClassName=MODEM_R2_1 Member=Component C1 1.5uF

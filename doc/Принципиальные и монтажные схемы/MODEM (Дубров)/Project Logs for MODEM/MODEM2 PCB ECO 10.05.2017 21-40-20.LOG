@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=MCLR Pin=DD3-1
+Removed Pin From Net: NetName=M0 Pin=DD3-2
+Removed Pin From Net: NetName=M1 Pin=DD3-3
+Removed Pin From Net: NetName=PGED1 Pin=DD3-4
+Removed Pin From Net: NetName=PGEC1 Pin=DD3-5
+Removed Pin From Net: NetName=OSC1 Pin=DD3-9
+Removed Pin From Net: NetName=OSC2 Pin=DD3-10
+Removed Pin From Net: NetName=DET Pin=DD3-12
+Removed Pin From Net: NetName=+3.3V Pin=DD3-13
+Removed Pin From Net: NetName=HL1 Pin=DD3-15
+Removed Pin From Net: NetName=HL2 Pin=DD3-16
+Removed Pin From Net: NetName=MISO Pin=DD3-17
+Removed Pin From Net: NetName=MOSI Pin=DD3-18
+Removed Pin From Net: NetName=GND Pin=DD3-19
+Removed Pin From Net: NetName=NetC7_2 Pin=DD3-20
+Removed Pin From Net: NetName=SCLK Pin=DD3-21
+Removed Pin From Net: NetName=\SS Pin=DD3-22
+Removed Pin From Net: NetName=RDYN Pin=DD3-23
+Removed Pin From Net: NetName=U1RX Pin=DD3-24
+Removed Pin From Net: NetName=U1TX Pin=DD3-25
+Removed Pin From Net: NetName=T/R\ Pin=DD3-26
+Removed Pin From Net: NetName=GND Pin=DD3-27
+Removed Pin From Net: NetName=+3.3V Pin=DD3-28
+Removed Member From Class: ClassName=MODEM2 Member=DD3
+Added Component: Designator=DD?(PIC24HJ128GP502)
+Added Pin To Net: NetName=MCLR Pin=DD?-1
+Added Pin To Net: NetName=M0 Pin=DD?-2
+Added Pin To Net: NetName=M1 Pin=DD?-3
+Added Pin To Net: NetName=PGED1 Pin=DD?-4
+Added Pin To Net: NetName=PGEC1 Pin=DD?-5
+Added Pin To Net: NetName=GND Pin=DD?-8
+Added Pin To Net: NetName=OSC1 Pin=DD?-9
+Added Pin To Net: NetName=OSC2 Pin=DD?-10
+Added Pin To Net: NetName=DET Pin=DD?-12
+Added Pin To Net: NetName=+3.3V Pin=DD?-13
+Added Pin To Net: NetName=HL1 Pin=DD?-15
+Added Pin To Net: NetName=HL2 Pin=DD?-16
+Added Pin To Net: NetName=MISO Pin=DD?-17
+Added Pin To Net: NetName=MOSI Pin=DD?-18
+Added Pin To Net: NetName=GND Pin=DD?-19
+Added Pin To Net: NetName=NetC7_2 Pin=DD?-20
+Added Pin To Net: NetName=SCLK Pin=DD?-21
+Added Pin To Net: NetName=\SS Pin=DD?-22
+Added Pin To Net: NetName=RDYN Pin=DD?-23
+Added Pin To Net: NetName=U1RX Pin=DD?-24
+Added Pin To Net: NetName=U1TX Pin=DD?-25
+Added Pin To Net: NetName=T/R\ Pin=DD?-26
+Added Pin To Net: NetName=GND Pin=DD?-27
+Added Pin To Net: NetName=+3.3V Pin=DD?-28
+Added Pin To Net: NetName=NetDD?_6 Pin=DD?-6
+Added Pin To Net: NetName=NetDD?_6 Pin=SA2-10
+Added Net: Name=NetDD?_6
+Added Pin To Net: NetName=NetDD?_7 Pin=DD?-7
+Added Pin To Net: NetName=NetDD?_7 Pin=SA2-9
+Added Net: Name=NetDD?_7
+Added Pin To Net: NetName=NetDD?_11 Pin=DD?-11
+Added Pin To Net: NetName=NetDD?_11 Pin=SA2-8
+Added Net: Name=NetDD?_11
+Added Pin To Net: NetName=NetDD?_14 Pin=DD?-14
+Added Pin To Net: NetName=NetDD?_14 Pin=SA2-7
+Added Net: Name=NetDD?_14
+Added Member To Class: ClassName=MODEM2 Member=Component DD? PIC24HJ128GP502
